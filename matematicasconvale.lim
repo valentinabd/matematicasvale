@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>RECURSOS</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <corbanda>ADFACF</corbanda>
+        <cornavega>ADFACF</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>Matemáticas con Vale</titulo>
+        <subtitulo>¡Repasemos juntos diversos temas de matemáticas!</subtitulo>
+        <autor>Valentina Buenahora Díaz</autor>
+        <logo>Logotipo_1.png</logo>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="correct-choice-43861.mp3" modo="1" >¡Muy bien!</correcto>
+        <incorrecto son="wah-wah-sad-trombone-6347.mp3" modo="1" >Sigue intentando...</incorrecto>
+        <modomenu>2</modomenu>
+        <liga ir="1">Inicio</liga>
+        <liga ir="2">Los polígonos</liga>
+        <liga ir="3">Actividad 1</liga>
+        <liga ir="4">Actividad 2</liga>
+        <liga ir="5">Clasificación de polígonos</liga>
+        <liga ir="6">Actividad 3</liga>
+        <liga ir="7">Clasificación de triángulos</liga>
+        <liga ir="8">Actividad 4</liga>
+        <liga ir="9">Congruencia y semejanza de triángulos</liga>
+        <liga ir="10">Actividad 5</liga>
+        <liga ir="11">Actividad 6</liga>
+        <liga ir="12">Actividad 7</liga>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe auto="1"  posx="0" posy="0">¡BIENVENIDO!.png</imaxe>
+        </paxina>
+        <paxina id="2" >
+              <tipo>15</tipo>
+              <cfondo>D7EBFF</cfondo>
+              <ctexto>000000</ctexto>
+              <menu boton="Elementos"><![CDATA[<p align="center">
+<br><font color="#000000" face="Arial" size="12"></font><font color="#000000" face="Arial" size="42"><b>Los polígonos y sus elementos</b>
+<br><iframe width="560" height="315" src="https://www.youtube.com/embed/eDMTdyNBs48?si=UE_zYDVzowNIL9Vb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br>
+<br></font></p>
+<br>
+<br>]]></menu>
+              <menu boton="Nombrar ángulos"><![CDATA[<p align="center">
+<br><font color="#000000" face="Arial Black" size="42"><b>¿Cómo nombramos a los ángulos?</b></font>
+<br>
+<br><iframe width="560" height="315" src="https://www.youtube.com/embed/H28hye2TW7Y?si=l63qGMw3q7yNcIpt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br>
+<br></p>
+<br>]]></menu>
+              <menu boton="Tipos de ángulos" imaxe="Clasificaci_on_de__angulos.jpg"><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="28"> <b><i>RECUERDA LA CLASIFICACIÓN DE ÁNGULOS:</i></b><br>
+Los ángulos agudos miden menos de 90°<br>
+Los ángulos rectos miden exactamente 90°<br>
+Los ángulos obtusos miden entre 90° y 180°<br>
+Los ángulos llanos miden exactamente 180°<br>
+Los ángulos completos miden exactamente 360°<br>
+</font></p>
+]]></menu>
+              <menu boton="Ejemplo: Act. 1" imaxe="Ejemplo._Ejercicio_2.png"><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="12"></font></p>
+]]></menu>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="3" >
+              <tipo>39</tipo>
+              <modo>1</modo>
+            <parellas imaxe="Curva.png" texto="">No-pol_igono1.png</parellas>
+              <parellas imaxe="Cinco_lados.png" texto="">Pol_igono3.jpg</parellas>
+              <parellas imaxe="Diez_lados.png" texto="">Pol_igono2.png</parellas>
+              <parellas imaxe="Tres_lados.png" texto="">Pol_igono1.png</parellas>
+              <parellas imaxe="Semic_irculos.png" texto="">No-pol_igono2.png</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>000000</ctapa>
+        </paxina>
+        <paxina id="4" >
+              <tipo>2</tipo>
+              <texto posx="49" posy="0" ancho="411" largo="505"><![CDATA[<font size="12"><iframe style="max-width:100%" src="https://wordwall.net/es/embed/01ba8ca3b372494c8347df3dd637fb90?themeId=1&templateId=5&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe></font>]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="5" >
+              <tipo>15</tipo>
+              <cfondo>D7EBFF</cfondo>
+              <ctexto>000000</ctexto>
+              <menu boton="Regular e irregular"><![CDATA[<p align="center">
+<br><font color="#080000" face="Arial" size="46"><b>Polígonos regulares e irregulares</b></font></p>
+<br><p align="center"><font size="12"><iframe width="560" height="315"src="https://www.youtube.com/embed/1kUN9YQYmks?si=LGgTFO90T0xxbji9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></font>]]></menu>
+              <menu boton="INDICACIONES" imaxe="Indicaciones.png"><![CDATA[]]></menu>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="6" >
+              <tipo>45</tipo>
+              <pe>Clasificación de polígonos según sus lados</pe>
+            <forma>0</forma>
+            <modo>1</modo>
+              <texto son="Pol_igonos_regulares_(mp3cut.net).mp3"><![CDATA[Triángulo: tres lados
+Cuadrilátero: cuatro lados.
+Pentágono: cinco lados.
+Hexágono: seis lados.
+Heptágono: siete lados.
+Octágono: ocho lados.
+Eneágono: nueve lados.
+Decágono: diez lados.
+Endecágono: once lados.
+Dodecágono: doce lados.]]></texto>
+        </paxina>
+        <paxina id="7" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="9">Clasificaci_on_de_tri_angulos2.jpg</imaxe>
+              <texto posx="54" posy="-3" ancho="386" largo="381"><![CDATA[
+<p align="left">
+<font color="#000000" face="Arial" size="46"><b></b><br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="8" >
+              <tipo>2</tipo>
+              <texto posx="49" posy="0" ancho="483" largo="540"><![CDATA[<font size="12"><iframe style="max-width:100%" src="https://wordwall.net/es/embed/ef3872ee1bfc471294bb2dd3f714d443?themeId=1&templateId=38&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe></font>]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="9" >
+              <tipo>15</tipo>
+              <cfondo>D7EBFF</cfondo>
+              <ctexto>000000</ctexto>
+              <menu boton="Congruencia"><![CDATA[<p align="center">
+<br><font color="#080000" face="Arial" size="46"><b>Criterios de congruencia de triángulos</b></font></p>
+<br><p align="center"><iframe width="560" height="315"src="https://www.youtube.com/embed/U4MTmLvvKQ4?si=VwiWIpD4zQVYqLx5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></menu>
+              <menu boton="Semejanza"><![CDATA[<p align="center">
+<br><font color="#080000" face="Arial" size="46"><b>Criterios de semejanza de triángulos</b></font></p>
+<br><p align="center"><iframe width="560" height="315"src="https://www.youtube.com/embed/nO58sj9bkAI?si=WLSW_ovnTNR2Etqd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></menu>
+              <menu boton="Resumen" imaxe="Congruencia_y_semejanza.png"><![CDATA[]]></menu>
+              <menu boton="Ejemplo: Act. 5" imaxe="Ejemplo._Act._5.png"><![CDATA[]]></menu>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="10" >
+              <tipo>24</tipo>
+              <pe>Indique en cuál par de triángulos se cumple el criterio de semejanza LAL</pe>
+              <etiqueta imaxe="Semejanza_LAL.png" texto="">1</etiqueta>
+              <etiqueta imaxe="Congruencia_LLL.png" texto="">0</etiqueta>
+              <etiqueta imaxe="Semejanza_AA.png" texto="">0</etiqueta>
+              <etiqueta imaxe="Semejanza_LLL.png" texto="">0</etiqueta>
+              <etiqueta imaxe="Congruencia_LAL.png" texto="">0</etiqueta>
+              <etiqueta imaxe="Congruencia_ALA.png" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="11" >
+              <tipo>1</tipo>
+              <imaxe>Congruencia_LLL_(3).png</imaxe>
+              <texto>A partir de la imagen, seleccione la respuesta correcta</texto>
+              <resp texto="Falso. Para que sean congruentes, las medidas de sus longitudes deben ser iguales, pero en el triángulo 3 todos sus lados son diferentes" valor="0">Los tres son congruentes</resp>
+              <resp texto="Falsa. En el ejercicio no nos mencionan los ángulos de los triángulos" valor="0">Sólo 1 y 2 son congruentes por el criterio LAL</resp>
+              <resp texto="Verdadero. Podemos observar que tienen la misma forma y tamaño aunque se encuentren en diferente posición" valor="1">Sólo 1 y 2 son congruentes por el criterio LLL</resp>
+              <resp texto="Falso. Podemos observar que los triángulos 1 y 2 son congruentes debido a que sus tres lados son congruentes" valor="0">Ninguno es congruente</resp>
+        </paxina>
+        <paxina id="12" >
+              <tipo>10</tipo>
+              <pe>Escriba &quot;verdadero&quot; o &quot;falso&quot; según corresponda</pe>
+              <pregunta res="falso">Para saber si dos o más triángulos son congruentes basta con saber la longitud de uno de sus lados</pregunta>
+              <pregunta res="verdadero">La semejanza de triángulos nos permite identificar un patrón entre las longitudes de los triángulos</pregunta>
+              <pregunta res="verdadero">Se puede determinar si dos triángulos son semejantes conociendo al menos la medida de dos de sus ángulos</pregunta>
+              <pregunta res="verdadero">La posición en que se encuentren los triángulos no cambia si son congruentes o semejantes</pregunta>
+        </paxina>
+    </libro>
+</lim>
